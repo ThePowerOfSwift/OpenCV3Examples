@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  OpenCVExample
+//
+//  Created by Pham Chi Cong on 5/16/16.
+//  Copyright © 2016 Transcosmos Technologic Arts. All rights reserved.
+//
+
+
+#ifdef __cplusplus
+    #include <opencv2/opencv.hpp>
+#endif
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif /* PrefixHeader_pch */
