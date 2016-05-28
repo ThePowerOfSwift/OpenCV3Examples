@@ -1,7 +1,7 @@
 # OpenCV3 Examples for iOS
 
 ### How to run this project?
-I can setup OpenCV framework using cocoapods with [version 3.0.0](https://cocoapods.org/?q=opencv). Or You can add the framework manually as below:
+You can setup OpenCV framework using cocoapods with [version 3.0.0](https://cocoapods.org/?q=opencv). Or You can add the framework manually as below:
 
 - <b>Step 1</b>: Download [OpenCV 3 framework for iOS](http://sourceforge.net/projects/opencvlibrary/files/opencv-ios/3.1.0/opencv2.framework.zip/download). Copy this framework into a folder as shown below:
 ![alt tag](https://github.com/congpc/OpenCV3Examples/blob/master/Blog/opencv3-01.png)
